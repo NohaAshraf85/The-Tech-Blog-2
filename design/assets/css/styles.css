@@ -1,0 +1,16 @@
+/* html */
+body{
+    background-color: rgb(216, 216, 216);
+}
+
+
+
+/* BlogPost Card display in the homepage */
+.card-header{
+    background-color: black;
+    color: white;
+}
+
+.postedByFont{
+    font-size: 12px;
+}
